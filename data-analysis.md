@@ -1,5 +1,4 @@
 # MPU6050 Static Test - Data Analysis
-
 ## Test Conditions
 - Sensor: MPU6050
 - Microcontroller: ESP32 SuperMini
