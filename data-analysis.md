@@ -1,6 +1,4 @@
 # MPU6050 Static Test - Data Analysis
-# Date: February 11, 2026
-# Author: Kubilay Erol
 
 ## Test Conditions
 - Sensor: MPU6050
