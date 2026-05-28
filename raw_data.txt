@@ -1,0 +1,78 @@
+=== EXPERIMENTAL RAW DATA LOG ===
+Project: Empirical Verification of Gravitational Acceleration
+Platform: ESP32-C3 SuperMini & MPU6050 MEMS Accelerometer
+Environment: University Library (Stationary Bench Test)
+Data Format: Resultant Magnitude (m/s^2)
+
+--- PHASE 1: STEADY STATE BASELINE ---
+9.979
+10.080
+9.904
+10.012
+9.940
+9.862
+9.894
+9.959
+9.999
+9.986
+9.871
+9.915
+9.853
+10.010
+9.955
+9.978
+9.947
+9.889
+9.965
+10.014
+9.940
+9.881
+10.049
+9.936
+9.965
+10.001
+10.035
+9.977
+9.977
+9.887
+9.980
+
+--- PHASE 2: DYNAMIC EVENT ---
+10.639
+7.594
+5.353
+18.245
+5.214
+8.690
+16.651
+2.950
+14.360
+12.708
+2.795
+14.452
+
+--- PHASE 3: RECOVERY & STABILIZATION ---
+9.548
+10.349
+10.014
+9.842
+9.885
+9.901
+9.905
+9.973
+9.944
+9.950
+9.977
+10.035
+9.954
+10.014
+10.009
+9.955
+9.953
+9.923
+9.978
+9.969
+9.952
+9.966
+
+=== END OF LOG ===
